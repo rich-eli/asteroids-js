@@ -11,7 +11,7 @@ This project is built on its entirety with vanilla JavaScript. The game is capab
 * Keep track of score and high score.
 * Start with three lives, lose each one upon impact with an asteroid. Impacted asteroids will be destroyed. Loss of all lives results in "Game Over".
 * Blink at spawn (New Game/After loss of life). At this state player is invincible/impervious to any asteroid impacts.
-* New levels = faster and more asteroids.
+* Level Up = faster and more asteroids.
 
 Play Here:
 https://rich-eli.github.io/asteroids-js/asteroids-js/
